@@ -1,0 +1,12 @@
+autocorrect
+contractions
+inflect
+networkx
+nltk
+numpy
+pandas
+requests
+scipy
+scikit-learn
+tensorflow
+transformers
