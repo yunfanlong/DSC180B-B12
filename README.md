@@ -10,7 +10,8 @@ digital communications during a global crisis.
 
 ## Environment Setup
 
-Ensure you have Python 3.6 or older installed on your system. This project is tested on Python 3.6.8.
+Ensure you have Python 3.6.8 and tensorflow-gpu 1.15 installed on your system. This project is tested on Python 3.6.8 and tensorflow-gpu 1.15.
+
 
 ### Virtual Environment (Recommended)
 
