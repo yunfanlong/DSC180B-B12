@@ -10,7 +10,7 @@ digital communications during a global crisis.
 
 ## Environment Setup
 
-Ensure you have Python 3.7 or newer installed on your system. This project is tested on Python 3.7, 3.8, and 3.9.
+Ensure you have Python 3.6 or older installed on your system. This project is tested on Python 3.6.8.
 
 ### Virtual Environment (Recommended)
 
