@@ -64,3 +64,24 @@ pip install -r requirements.txt
 ## Contributors
 
 Yuxin Guo, Yujia Wang, Yunfan Long
+
+## Reference
+
+### Code reference and baseline template
+
++ Sentiment-Analysis-GNN-During-COVID19
+https://github.com/AlvaYan/Sentiment-Analysis-GNN-During-COVID19
+
+### Paper reference in implementation
+
++ COVID-19 sentiment analysis using college subreddit data
+https://arxiv.org/abs/2112.04351
+
+
+## Additional Dataset
+
+You can downloaded the unprocessed anonymized data here:
+https://drive.google.com/file/d/13PzwBAjyI4VYpCEVye6fU3gGsDvdnrBY/view?usp=sharing
+
+You can download the RoBERTa processed data and score here:
+https://drive.google.com/file/d/1RRi5o1JCWeuS-dfhNOuxsk7JxJXKBOuL/view?usp=sharing
