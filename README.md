@@ -1,4 +1,4 @@
-# DSC180B-B12: GraphATTEncode
+# DSC180B-B12: Graph Neural Networks for Enhancing Sentiment Analysis
 
 In this study, we want to introduce a novel approach to sentiment analysis by integrating Graph Neural Networks (GNNs), specifically Graph Attention Networks (GAT), with traditional Natural Language Processing (NLP) techniques. By focusing on the challenges of interpreting long-range dependencies within text, particularly in the context of social media interactions, we propose a model that leverages the relational and textual information present
 in data from college SubReddit forums before and during the COVID-19 pandemic (Yan and Liu 2021). Our methodology employs RoBERTa for text embedding, followed by a GAT to incorporate the structural relationships between messages, enhancing the sentiment analysis capability beyond the limitations of conventional models. The results demonstrate a statistically significant improvement in identifying and relating sentiments across distant text
