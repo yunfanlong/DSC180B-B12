@@ -83,7 +83,6 @@ Yuxin Guo, Yujia Wang, Yunfan Long
 
 + [COVID-19 sentiment analysis using college subreddit data](https://arxiv.org/abs/2112.04351)
 
-<a name="additional-dataset">
 ## Additional Dataset
 
 You can downloaded the unprocessed anonymized data [here](https://drive.google.com/file/d/13PzwBAjyI4VYpCEVye6fU3gGsDvdnrBY/view?usp=sharing)
